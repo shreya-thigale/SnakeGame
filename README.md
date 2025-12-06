@@ -1,4 +1,8 @@
-## 🐍 Snake Game (HTML, CSS, & JavaScript)
+## 🐍 Snake Game 
+
+### 🕹️ Gameplay Demo
+
+![Gameplay of the classic Snake Game](snakegamedemo.gif)
 
 This is a classic implementation of the Snake Game, built as a project to practice front-end development skills.
 
@@ -10,10 +14,6 @@ This is a classic implementation of the Snake Game, built as a project to practi
 * **Score Tracking:** Tracks the current score and saves the **high score** using Local Storage.
 * **Timing:** Keeps track of the time spent playing the game.
 * **Responsive Grid:** The game board adjusts based on the screen size.
-
-### 🕹️ Gameplay Demo
-
-![Gameplay of the classic Snake Game](snakegamedemo.gif)
 
 ### 🚀 How to Play
 
